@@ -1,0 +1,49 @@
+html {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	font-family: arial, sans-serif;
+	background: #fff;
+	color: #222;
+	font-size: small;
+	min-height: 100%;
+	margin: 0 auto;
+	min-width: 980px;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+.bc {
+	position: absolute;
+	right: 0;
+	width: 100%;
+}
+
+.bce {
+	float: right;
+
+}
+
+a:hover .bctxt {
+
+}
+
+#body {
+	display: block;
+	height: 233px;
+	margin-top: 89px;
+}
+
+.logo {
+	padding-top: 109px;
+}
+
+#footer {
+	bottom: 0;
+	font-size: 10pt;
+	position: absolute;
+	height: 137px;
+}
