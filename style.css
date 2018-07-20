@@ -1,0 +1,86 @@
+html {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	font-family: arial, sans-serif;
+	background: #fff;
+	color: #222;
+	font-size: small;
+	min-height: 100%;
+	margin: 0 auto;
+	min-width: 980px;
+}
+
+body a {
+	text-decoration: none;
+}
+
+.au:hover {
+	text-decoration: underline;
+}
+
+#bc {
+    list-style-type: none;
+    margin: 0
+    padding: 0;
+    text-align:right;
+    padding-right: 40px;
+}
+
+#bc li {
+	display: inline-block;
+    text-align: right;
+    padding-right: 12px;
+    line-height: 40px;
+}
+
+#bc a {
+	position: relative;
+	display: inline-block;
+ }
+
+#button {
+	box-shadow: 0 1px 0 rgba(0,0,0,.15);
+}
+
+#body {
+	display: block;
+	height: 233px;
+	margin-top: 89px;
+}
+
+.sqr {
+    background-image: url('//square.png');
+    background-size: 528px 68px;
+}
+
+#logo {
+	padding-top: 109px;
+	width: 100%;
+	height: auto;
+}
+
+
+#footer {
+	position: absolute;
+	bottom: 0;
+	font-size: small;
+	display: block;
+	height: 35px;
+	width: 100%;
+}
+
+
+#ftl {
+	display: inline-block;
+	margin-left: 30px;
+	white-space: nowrap;
+}
+
+#ftr {
+	white-space: nowrap;
+	margin-right: 30px;
+	float: right;
+}
